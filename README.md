@@ -29,8 +29,6 @@ Aquí tienes la lista actualizada con las herramientas y tecnologías adicionale
 
 
 
-## GitHub Stats
+## GitHub Stats and  Top Languages
 ![Ismaworkdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ismaworkdev&show_icons=true&theme=radical)
-
-## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismaworkdev&layout=compact&theme=radical)
