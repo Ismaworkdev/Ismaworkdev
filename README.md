@@ -16,7 +16,7 @@ A passionate web developer from Spain .
 Aquí tienes la lista actualizada con las herramientas y tecnologías adicionales que solicitaste:  
 
 ## Languages and Tools  
-¡Claro! Aquí tienes la tabla corregida:
+
 
 | Backend          | Frontend        | Tools                  |
 |------------------|-----------------|------------------------|
@@ -26,8 +26,7 @@ Aquí tienes la lista actualizada con las herramientas y tecnologías adicionale
 | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
 | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) | ![Apache Cordova](https://img.shields.io/badge/-Apache%20Cordova-4F5B93?style=flat&logo=apachecordova&logoColor=white) | ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white) |
 | ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white) | ![Oracle SQL Developer](https://img.shields.io/badge/-Oracle%20SQL%20Developer-F80000?style=flat&logo=oracle&logoColor=white) |
-|                  | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) | ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white) |
-|                  |                 | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
+| ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) | ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white) |
 
 
 ## GitHub Stats and  Top Languages
