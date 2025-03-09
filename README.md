@@ -12,8 +12,7 @@ A passionate web developer from Spain .
 - [GitHub](https://github.com/Ismaworkdev)
 - [LeetCode](https://leetcode.com/u/ismaelmorta/)
 
-## Languages and Tools
-Aquí tienes la lista actualizada con las herramientas y tecnologías adicionales que solicitaste:  
+
 
 ## Languages and Tools  
 
