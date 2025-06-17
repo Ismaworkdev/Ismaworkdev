@@ -28,7 +28,7 @@ A passionate web developer from Spain .
 | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) | ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white) |
 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |                 |                        |
 | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |                 |                        |
-| ![Unicorn](https://img.shields.io/badge/-Uvicorn-222222?style=flat&logo=uvicorn&logoColor=white) |                 |                        |
+
 
 
 
