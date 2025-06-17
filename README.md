@@ -26,6 +26,10 @@ A passionate web developer from Spain .
 | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) | ![Apache Cordova](https://img.shields.io/badge/-Apache%20Cordova-4F5B93?style=flat&logo=apachecordova&logoColor=white) | ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white) |
 | ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white) | ![Oracle SQL Developer](https://img.shields.io/badge/-Oracle%20SQL%20Developer-F80000?style=flat&logo=oracle&logoColor=white) |
 | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) | ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white) |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |                 |                        |
+| ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |                 |                        |
+| ![Unicorn](https://img.shields.io/badge/-Uvicorn-222222?style=flat&logo=uvicorn&logoColor=white) |                 |                        |
+
 
 
 ## GitHub Stats and  Top Languages
